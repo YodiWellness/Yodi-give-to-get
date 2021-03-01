@@ -1,0 +1,243 @@
+
+@media screen and (max-width: 1024px) {
+    .main_section {
+        font-size: 26px;
+        padding-right: 4px;
+        padding-left: 164px;
+        padding-top: 122px;
+    }
+    .products {
+        padding: 10%;
+        height: 312px;
+    }
+    .product {
+        padding: 21px;
+        margin-top: -100px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .home-main section {
+        margin-top: -4px;
+    }
+    .home-main-text {
+        font-size: 21px;
+        padding-top: 188px;
+    }
+    .main_section {
+        font-size: 23px;
+    }
+    .products {
+        padding: 3%;
+        height: 458px;
+    }
+    .product {
+        margin-top: -29px;
+    }
+    .event img {
+        width: 286px;
+    }
+    
+}
+@media screen and (max-width: 480px) {
+    .icons .icons-container {
+        justify-self: center;
+        margin-right: 30px;
+    }
+    header {
+        height: 180px;
+    }
+    .nav-option {
+        display: block;
+        height: 130px;
+    }
+    .nav-option .nav-logo-img {
+        margin-left: 120px;
+    }
+    .nav-option .nav-container {
+        margin-right: 130px;
+    }
+    .home-main {
+        background-position: -121px;
+    }
+    .home-main section {
+        height: 90px;
+        margin-top: 167px;
+    }
+    .home-main-text {
+        letter-spacing: 2px;
+        font-size: 13px;
+        padding-top: 0px;
+    }
+    .home-main-button {
+        width: 100px;
+        height: 25px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .container_footer {
+        display: initial;
+    }
+    .profile-main-container .profile-container {
+        display: block;
+    }
+    .proyects-main-container {
+        display: block;
+    }
+    .contact {
+        height: 230px;
+    }
+    .container_contact {
+        width: 315px;
+        display: block;
+    }
+    .form-email {
+        padding-left: 1px;
+    }
+    .social {
+        padding: 10px;
+    }
+    .faqs {
+        color: white;
+    }
+    .subapartado {
+        width: 349px;
+    }
+    .title {
+        width: 350px;
+        border-bottom: 0;
+    }
+    .info {
+        width: 348px;
+    }
+    .main_section {
+        padding: 3%;
+        font-size: 15px;
+        padding-top: 115px;
+        padding-left: 135px;
+    }
+    .products {
+        padding: 8%;
+        display: block;
+        height: 920px;
+    }
+    .product {
+        padding: 40px;
+        margin-top: -70px;
+    }
+    .container-event {
+        display: block;
+    }
+    .event {
+        width: 100%;
+    }
+    .event img {
+        width: 396px;
+        height: 340px;
+    }
+    .beneficios {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    header{
+        width: 104%;
+        height: 165px;
+    }
+    .nav-option {
+        height: 115px;
+    }
+    .nav-option .nav-logo-img {
+        margin-left: 66px;
+    }
+    .icons .icons-container {
+        margin-right: 30px;
+    }
+    .nav-logo-img img{
+        width: 180px;
+        margin-top: 10px;
+        height: 60px;
+    }
+    .nav-option .nav-container{
+        margin-right: 46px;
+    }
+    .home-main {
+        width: 104%;
+        background-position: -88px;
+    }
+    .home-main section {
+        height: 100px;
+        margin-top: 88px;
+    }
+    .home-main-button{
+        height: 21px;
+        line-height: 20px;
+    }
+    .main_section{
+        padding: 0%;
+        font-size: 10px;
+        padding-top: 67px;
+        padding-left: 82px;
+        width: 249px;
+        height: 221px;
+    }
+    .products{
+        padding: 3%;
+        height: 1030px;
+        width: 313px;
+    }
+    .product{
+        padding: 20px;
+        margin-top: -23px;
+    }
+    .event img{
+        width: 243px;
+        height: 237px;
+
+    }
+    .event{
+        width: 102%;
+    }
+    .footer {
+        width: 100%;
+    }
+    .profile-main-container {
+        padding: 45px 40px;
+        width: 271px;
+    }
+    .profile-main-container img {
+        width: 250px;
+    }
+    .profile-main-proyects {
+        padding: 0;
+    }
+    .subapartado {
+        width: 251px;
+    }
+    .faqs{
+        margin: 41px 70px;
+    }
+    .info {
+        width: 250px;
+    }
+    .title {
+        width: 270px;
+    }
+    #fqrs {
+        padding: 51px;
+        margin-right: -12px;
+    }
+    .container_contact {
+        width: 314px;
+    }
+    .contact {
+        width: 330px;
+    }
+    .form-email {
+        padding-left: 18px;
+    }
+    .form-email h3 {
+    font-size: 17px;
+    }
+}
